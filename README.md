@@ -86,5 +86,5 @@ All scripts are optimized for use within the **Azure environment** and have show
 
 If you have any questions or suggestions, feel free to contact me at:
 
-- GitHub: [@yourusername](https://github.com/karimtazzi)
+- GitHub: karimtazzi
 - Email:  tazzikarime1@gmail.com
